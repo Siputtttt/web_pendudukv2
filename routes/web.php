@@ -6,8 +6,8 @@ use App\Http\Controllers\keluargaController;
 use App\Http\Controllers\pendudukController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\Auth\AuthenticatedSessionController;
-use App\Models\keluargaModel;
-use Illuminate\Support\Facades\Route;
+    use App\Models\keluargaModel;
+    use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------

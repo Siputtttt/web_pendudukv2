@@ -52,8 +52,8 @@ class keluargaController extends Controller
         //     'provinsi' => $request->provinsi,
         // ];
 
-        // var_dump($input);
-        // die();
+        var_dump($input);
+        die();
 
         try {
             keluargaModel::create($input);

@@ -216,7 +216,7 @@
                                             accept=".jpg, .jpeg, .png"
                                             onchange="document.getElementById('output').src = window.URL.createObjectURL(this.files[0])">
                                     </div>
-                                </div>\
+                                </div>
                                 <div class="form-group mt-3">
                                     <button type="submit" class="btn btn-danger me-2">Simpan</button>
                                     <button type="button" data-bs-dismiss="modal" aria-label="Close"
